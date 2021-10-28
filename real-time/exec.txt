@@ -1,0 +1,3 @@
+Run <prog4> I=<5> D=<10> 
+Run <prog5> I=<20> D=<30>
+Run <prog6> I=<40> D=<20>
